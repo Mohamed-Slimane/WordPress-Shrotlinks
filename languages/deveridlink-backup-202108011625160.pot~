@@ -1,0 +1,108 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Dever post id link\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-01 16:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: deveridlink"
+
+#: frameworks/cmb2/functions.php:75
+msgid "About"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:84
+msgid "About Dever short link"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:47
+msgid "Bottom left"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:46
+msgid "Bottom right"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:40
+msgid "Button position"
+msgstr ""
+
+#: inc/functions.php:41
+msgid "Copied"
+msgstr ""
+
+#: inc/functions.php:31 inc/functions.php:32
+msgid "Copy link"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dever"
+msgstr ""
+
+#. Name of the plugin
+msgid "Dever short link"
+msgstr ""
+
+#. Description of the plugin
+msgid "Get short link of pages"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://en.de-ver.com"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:33
+msgid "Id"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:29
+msgid "Link type"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:62
+msgid "Margin"
+msgstr ""
+
+#: inc/functions.php:43
+msgid "Okey"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:54
+msgid "Post type"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:12
+msgid "Short link"
+msgstr ""
+
+#: inc/functions.php:42
+msgid "The link for this page has been copied"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:83
+msgid ""
+"This plugin helps you to add an icon to copy a short link in pages, articles,"
+" vectors, or anywhere you want."
+msgstr ""
+
+#: frameworks/cmb2/functions.php:45
+msgid "Top left"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:44
+msgid "Top right"
+msgstr ""
+
+#: frameworks/cmb2/functions.php:34
+msgid "Url"
+msgstr ""

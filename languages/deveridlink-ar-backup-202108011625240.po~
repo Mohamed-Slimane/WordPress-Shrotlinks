@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dever slicewp affiliates\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-30 20:00+0000\n"
+"PO-Revision-Date: 2021-08-01 16:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: deverslicewpaff"
+
+#: frameworks/cmb2/functions.php:75
+msgid "About"
+msgstr "حول"
+
+#: frameworks/cmb2/functions.php:84
+msgid "About Dever short link"
+msgstr "حول الرابط القصير من ديفر"
+
+#: frameworks/cmb2/functions.php:47
+msgid "Bottom left"
+msgstr "أسفل يسار"
+
+#: frameworks/cmb2/functions.php:46
+msgid "Bottom right"
+msgstr "أسفل يمين"
+
+#: frameworks/cmb2/functions.php:40
+msgid "Button position"
+msgstr "موضع الأيقونة"
+
+#: inc/functions.php:41
+msgid "Copied"
+msgstr "نسخ"
+
+#: inc/functions.php:31 inc/functions.php:32
+msgid "Copy link"
+msgstr "نسخ الرابط"
+
+#. Author of the plugin
+msgid "Dever"
+msgstr "ديفر"
+
+#. Name of the plugin
+msgid "Dever short link"
+msgstr "الرابط القصير من ديفر"
+
+#. Description of the plugin
+msgid "Get short link of pages"
+msgstr "الحصول على رابط قصير من الصفحات"
+
+#. URI of the plugin
+#. Author URI of the plugin
+#| msgid "https://de-ver.com"
+msgid "https://en.de-ver.com"
+msgstr ""
+"https://de-ver.com\n"
+
+#: frameworks/cmb2/functions.php:33
+msgid "Id"
+msgstr "معرف"
+
+#: frameworks/cmb2/functions.php:29
+msgid "Link type"
+msgstr "نوع الرابط"
+
+#: frameworks/cmb2/functions.php:62
+msgid "Margin"
+msgstr "المحاذات"
+
+#: inc/functions.php:43
+msgid "Okey"
+msgstr "حسنا"
+
+#: frameworks/cmb2/functions.php:54
+msgid "Post type"
+msgstr "نوع الصفحة"
+
+#: frameworks/cmb2/functions.php:12
+msgid "Short link"
+msgstr "الرابط القصير"
+
+#: inc/functions.php:42
+msgid "The link for this page has been copied"
+msgstr "تم نسخ رابط هذه الصفحة"
+
+#: frameworks/cmb2/functions.php:83
+msgid ""
+"This plugin helps you to add an icon to copy a short link in pages, articles,"
+" vectors, or anywhere you want."
+msgstr ""
+"هذا المكون الاضافي يساعدك على اضافة ايقونة لنسخ رابط مختصر في الصفحات او "
+"المقالات او المتجات او اي مكان تريد."
+
+#: frameworks/cmb2/functions.php:45
+msgid "Top left"
+msgstr "أعلى يسار"
+
+#: frameworks/cmb2/functions.php:44
+msgid "Top right"
+msgstr "أعلى يمين"
+
+#: frameworks/cmb2/functions.php:34
+msgid "Url"
+msgstr "رابط"

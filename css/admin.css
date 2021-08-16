@@ -1,0 +1,109 @@
+.deveridlink_settings_title{
+    background: #f44336;
+    padding: 17px;
+    color: white;
+    font-weight: bold;
+}
+
+#deveridlink_options .form-table{
+    
+}
+
+#deveridlink_options .cmb2-wrap .cmb-row{
+    padding: 0 !important;
+    background: #3c393e !important;
+}
+
+#deveridlink_options .cmb-th{
+    font-weight: bolder !important;
+    color: white;
+    padding:0 10px !important;
+}
+
+#deveridlink_options .cmb-td{
+    background: white;
+    padding: 10px !important;
+    
+}
+#deveridlink_options select{
+    border: 1px solid #3c393e;
+    border-radius: 0;
+    width: 100%;
+    font-weight: bolder;
+}
+
+/*type="radio"*/
+.cmb2-radio-list li label {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 0;
+    border-radius: 3px;
+    transition:0.2s;
+    border-radius: 0;
+}
+.cmb2-radio-list li label:hover {
+    background: #3c393e17;
+}
+.cmb2-radio-list input[type="radio"]{
+    width: 0;
+    height: 0;
+    position: absolute;
+    opacity: 0;
+}
+.cmb2-radio-list input[type="radio"]:checked ~ label{
+    transition:0.2s;
+    background: #3c393e;
+    color: white;
+}
+/*type="checkbox"*/
+.cmb2-checkbox-list li label {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 0;
+    border-radius: 3px;
+    transition:0.2s;
+    border-radius: 0;
+}
+.cmb2-checkbox-list li label:hover {
+    background: #3c393e17;
+}
+.cmb2-checkbox-list input[type="checkbox"]{
+    width: 0;
+    height: 0;
+    position: absolute;
+    opacity: 0;
+}
+.cmb2-checkbox-list input[type="checkbox"]:checked ~ label{
+    transition:0.2s;
+    background: #3c393e;
+    color: white;
+}
+
+#deveridlink_options .button#submit-cmb{
+    background: #3c393e !important;
+    border: 0 !important;
+    border-radius: 0 !important;    
+}
+
+.shortcode-input{
+    border: 1px solid  #3c393e !important;
+    border-radius: 0px !important;
+    margin: 0 5px ;
+    text-align: center;
+}
+
+#deveridlink_options input{
+    border: 1px solid  #3c393e !important;
+    border-radius: 0px !important;
+}
+
+#deveridlink_go{
+    background: #ff9800;
+    width: max-content;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    font-weight: bolder;
+    
+}
